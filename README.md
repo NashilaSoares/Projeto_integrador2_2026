@@ -17,7 +17,7 @@ docker compose up
 `npm run db:seed` popula usuários, projetos e apontamentos de exemplo (mesmos dados do mockup original).
 
 Contas de desenvolvimento (senha: `time123`):
-- `ana@time.co` — Administradora
+
 - `marina@time.co` — Desenvolvedora
 - `rafael@time.co` — Designer
 
